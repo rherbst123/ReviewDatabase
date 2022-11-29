@@ -1,0 +1,30 @@
+h1 {
+    color: dimgray;
+    
+    
+    
+    
+    
+}
+
+body{
+    background-color: lightcyan;
+}
+
+tr:nth-child(odd){
+    background: dimgray;
+    color: floralwhite;
+        
+        
+}
+tr:nth-child(even){
+    background: floralwhite;
+    color: dimgray;
+        
+}
+
+a{
+    color: dimgray;
+    padding: 10px 20px;
+    
+}
